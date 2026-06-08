@@ -1,9 +1,5 @@
 import asyncio
 
-from browser_use_sdk.v3 import (
-    AsyncBrowserUse
-)
-
 from crawler import SitemapCrawler
 from graph import SiteGraph
 from exporter import (
@@ -15,21 +11,26 @@ from exporter import (
 async def main():
 
     START_URL = (
-        "https://example.com"
+        "https://www.invimatic.com/"
     )
-
-    client = AsyncBrowserUse()
 
     graph = SiteGraph()
 
     crawler = SitemapCrawler(
-        client,
         graph
     )
 
     await crawler.crawl(
         START_URL
     )
+
+    print("\nNodes:")
+    print(graph.nodes)
+
+    print("\nEdges:")
+    print(dict(graph.edges))
+
+    print("\nCrawl Complete")
 
     export_json(
         graph,
@@ -42,7 +43,7 @@ async def main():
     )
 
     print(
-        "Sitemap generation complete."
+        "\nSitemap generation complete."
     )
 
 

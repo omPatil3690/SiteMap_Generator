@@ -2,6 +2,9 @@ import json
 from collections import deque
 from urllib.parse import urlparse
 
+from browser_use import Agent, ChatOpenAI
+from browser_use import Agent
+
 from config import (
     MAX_DEPTH,
     MAX_PAGES
@@ -12,16 +15,22 @@ class SitemapCrawler:
 
     def __init__(
         self,
-        client,
         graph
     ):
-        self.client = client
         self.graph = graph
+
+        self.llm = ChatOpenAI(
+            model="gpt-4o-mini",
+            temperature=0.0,
+        )
 
     def normalize_url(
         self,
         url
     ):
+
+        if not url:
+            return ""
 
         return (
             url
@@ -35,55 +44,134 @@ class SitemapCrawler:
         target
     ):
 
-        return (
-            urlparse(root).netloc
-            ==
-            urlparse(target).netloc
-        )
+        try:
+
+            root_domain = ".".join(
+                urlparse(root)
+                .netloc
+                .split(".")[-2:]
+            )
+
+            target_domain = ".".join(
+                urlparse(target)
+                .netloc
+                .split(".")[-2:]
+            )
+
+            return (
+                root_domain
+                ==
+                target_domain
+            )
+
+        except Exception:
+
+            return False
 
     async def extract_links(
         self,
         url
     ):
 
-        prompt = f"""
-Open:
+        task = f"""
+Visit:
 
 {url}
 
-Extract every internal hyperlink
-visible on this page.
+Extract all visible hyperlinks on this page.
 
-Return ONLY valid JSON.
+Return ONLY a valid JSON object.
 
 Format:
 
 {{
-  "title": "Page Title",
-  "links": [
-      "https://example.com/about",
-      "https://example.com/contact"
-  ]
+    "title": "Page Title",
+    "links": [
+        "https://example.com/page1",
+        "https://example.com/page2"
+    ]
 }}
 
 No markdown.
 No explanation.
+No code blocks.
 Only JSON.
 """
 
-        result = await self.client.run(
-            prompt
-        )
-
         try:
 
-            data = json.loads(
-                result.output
+            agent = Agent(
+                task=task,
+                llm=self.llm,
             )
 
-            return data
+            result = await agent.run()
 
-        except Exception:
+            print("\n" + "=" * 60)
+            print(f"PAGE: {url}")
+            print("=" * 60)
+
+            try:
+
+                output = result.final_result()
+
+            except Exception:
+
+                output = result
+
+            print("RAW OUTPUT:")
+            print(output)
+
+            # Already parsed dictionary
+            if isinstance(
+                output,
+                dict
+            ):
+                return output
+
+            # String JSON
+            if isinstance(
+                output,
+                str
+            ):
+
+                try:
+
+                    parsed = json.loads(
+                        output
+                    )
+
+                    return parsed
+
+                except Exception:
+
+                    print(
+                        "JSON parsing failed"
+                    )
+
+                    return {
+                        "title": "",
+                        "links": []
+                    }
+
+            print(
+                "Unexpected output type:"
+            )
+
+            print(type(output))
+
+            return {
+                "title": "",
+                "links": []
+            }
+
+        except Exception as e:
+
+            print(
+                f"Failed extracting links from {url}"
+            )
+
+            print(e)
 
             return {
                 "title": "",
@@ -98,6 +186,10 @@ Only JSON.
         queue = deque()
 
         visited = set()
+
+        start_url = self.normalize_url(
+            start_url
+        )
 
         queue.append(
             (
@@ -115,6 +207,11 @@ Only JSON.
         while queue:
 
             if pages_seen >= MAX_PAGES:
+
+                print(
+                    f"Reached MAX_PAGES={MAX_PAGES}"
+                )
+
                 break
 
             current_url, depth = (
@@ -125,7 +222,7 @@ Only JSON.
                 continue
 
             print(
-                f"Visiting: {current_url}"
+                f"\nVisiting: {current_url}"
             )
 
             page_data = (
@@ -144,6 +241,10 @@ Only JSON.
                 []
             )
 
+            print(
+                f"Found {len(links)} links"
+            )
+
             self.graph.add_node(
                 current_url,
                 title
@@ -151,9 +252,14 @@ Only JSON.
 
             for link in links:
 
-                link = self.normalize_url(
-                    link
+                link = (
+                    self.normalize_url(
+                        link
+                    )
                 )
+
+                if not link:
+                    continue
 
                 if not self.same_domain(
                     start_url,
@@ -187,3 +293,25 @@ Only JSON.
                     )
 
             pages_seen += 1
+
+        print("\n" + "=" * 60)
+        print("CRAWL COMPLETE")
+        print("=" * 60)
+
+        print(
+            f"Pages Crawled: {pages_seen}"
+        )
+
+        print(
+            f"Nodes Found: {len(self.graph.nodes)}"
+        )
+
+        edge_count = sum(
+            len(targets)
+            for targets
+            in self.graph.edges.values()
+        )
+
+        print(
+            f"Edges Found: {edge_count}"
+        )

@@ -1,0 +1,1510 @@
+{
+  "nodes": [
+    {
+      "url": "https://www.invimatic.com",
+      "title": "Custom AI Agent Development Company for SaaS Growth | Invimatic"
+    },
+    {
+      "url": "https://www.invimatic.com/agentic-ai-development-for-saas",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/ai-agent-services",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/web-app-development",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/mobile-app-development",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/integrations",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/devsecops",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/soc-2-compliance",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/healthcare-industry",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/martech-industry",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/supply-chain",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/automobile",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/about",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/articles",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/case-studiesdata",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/ebooks",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/magazine",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/pricing-plans",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/contact",
+      "title": "Contact Us - Invimatic"
+    },
+    {
+      "url": "https://www.invimatic.com/privacy-policy",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/terms-of-use",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/casestudies-data/empowering-car-dealerships-b2b-sales-through-smart-referrals",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/casestudies-data/telemarketing-platform",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/casestudies-data/agentic-ai-shuffle-labs-data-access",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/casestudies-data/nailing-soc2-with-manual-approach",
+      "title": ""
+    },
+    {
+      "url": "https://www.invimatic.com/terms-of-use.",
+      "title": ""
+    },
+    {
+      "url": "https://invimatic.com/blog/custom-software-vs-legacy-software-when-building-beats-buying",
+      "title": ""
+    },
+    {
+      "url": "https://invimatic.com/blog/agentic-ai-reliability-why-your-ai-feature-might-be-your-biggest-product-risk",
+      "title": ""
+    },
+    {
+      "url": "https://invimatic.com/blog/how-to-add-agentic-ai-to-your-existing-saas-product-without-rebuilding-it-from-scratch",
+      "title": ""
+    },
+    {
+      "url": "https://invimatic.com/blog/agentic-ai-for-enterprise-moving-beyond-broken-saas-workflows",
+      "title": ""
+    },
+    {
+      "url": "https://invimatic.com/blog/what-agentic-ai-actually-means-for-saas-product",
+      "title": ""
+    },
+    {
+      "url": "https://invimatic.com/blog/the-hidden-ebitda-tax-what-your-saas-pays-every-month-for-not-having-ai-agents",
+      "title": ""
+    },
+    {
+      "url": "https://invimatic.com/blog/how-saas-companies-successfully-deploy-agentic-ai-without-internal-ai-teams",
+      "title": ""
+    },
+    {
+      "url": "https://invimatic.com/blog/the-complete-checklist-to-evaluate-an-agentic-ai-development-partner-with-scorecard",
+      "title": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "https://www.invimatic.com",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/agentic-ai-development-for-saas",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/agentic-ai-development-for-saas",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/agentic-ai-development-for-saas",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/agentic-ai-development-for-saas",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/agentic-ai-development-for-saas",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/agentic-ai-development-for-saas",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/agentic-ai-development-for-saas",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/agentic-ai-development-for-saas",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/contact"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/terms-of-use"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/ai-agent-services",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/contact"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/web-app-development",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/contact"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/casestudies-data/agentic-ai-shuffle-labs-data-access"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/casestudies-data/nailing-soc2-with-manual-approach"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/casestudies-data/telemarketing-platform"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/terms-of-use"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/integrations",
+      "target": "https://www.invimatic.com/casestudies-data/empowering-car-dealerships-b2b-sales-through-smart-referrals"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/contact"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/devsecops",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/soc-2-compliance",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/soc-2-compliance",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/soc-2-compliance",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/soc-2-compliance",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/soc-2-compliance",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/soc-2-compliance",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/soc-2-compliance",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/soc-2-compliance",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/contact"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/casestudies-data/agentic-ai-shuffle-labs-data-access"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/casestudies-data/nailing-soc2-with-manual-approach"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/casestudies-data/telemarketing-platform"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/terms-of-use"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/healthcare-industry",
+      "target": "https://www.invimatic.com/casestudies-data/empowering-car-dealerships-b2b-sales-through-smart-referrals"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/contact"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/martech-industry",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/terms-of-use"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/supply-chain",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/contact"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/automobile",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/terms-of-use."
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/about",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://invimatic.com/blog/custom-software-vs-legacy-software-when-building-beats-buying"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://invimatic.com/blog/the-complete-checklist-to-evaluate-an-agentic-ai-development-partner-with-scorecard"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://invimatic.com/blog/the-hidden-ebitda-tax-what-your-saas-pays-every-month-for-not-having-ai-agents"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/terms-of-use"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://invimatic.com/blog/how-to-add-agentic-ai-to-your-existing-saas-product-without-rebuilding-it-from-scratch"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://invimatic.com/blog/agentic-ai-for-enterprise-moving-beyond-broken-saas-workflows"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://invimatic.com/blog/agentic-ai-reliability-why-your-ai-feature-might-be-your-biggest-product-risk"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://invimatic.com/blog/how-saas-companies-successfully-deploy-agentic-ai-without-internal-ai-teams"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://invimatic.com/blog/what-agentic-ai-actually-means-for-saas-product"
+    },
+    {
+      "source": "https://www.invimatic.com/articles",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/terms-of-use"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/case-studiesdata",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/terms-of-use"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/ebooks",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/terms-of-use"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/magazine",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/pricing-plans",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/terms-of-use"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/contact",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/magazine"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/about"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/integrations"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/privacy-policy"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/martech-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/ai-agent-services"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/healthcare-industry"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/articles"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/mobile-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/automobile"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/terms-of-use"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/web-app-development"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/ebooks"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/soc-2-compliance"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/pricing-plans"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/supply-chain"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/devsecops"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/agentic-ai-development-for-saas"
+    },
+    {
+      "source": "https://www.invimatic.com/privacy-policy",
+      "target": "https://www.invimatic.com/case-studiesdata"
+    }
+  ]
+}
