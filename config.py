@@ -1,0 +1,2 @@
+MAX_DEPTH = 5
+MAX_PAGES = 200
